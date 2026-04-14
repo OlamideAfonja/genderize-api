@@ -4,7 +4,7 @@
 GET /api/classify?name={name}
 
 ## Example
-https://your-app.vercel.app/api/classify?name=john
+https://genderize-api-phi.vercel.app/api/classify?name=john
 
 ## Response
 {
